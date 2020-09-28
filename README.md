@@ -1,3 +1,3 @@
-# docker-redis
-Dockerfile for Redis
+## About
+Docker image for Redis
 
