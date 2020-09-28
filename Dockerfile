@@ -1,8 +1,7 @@
 #
 # Dockerfile for Redis
 #
-
-FROM ubuntu:yakkety
+FROM ubuntu:focal
 MAINTAINER Jean-Marc Tremeaux <jm.tremeaux@sismics.com>
 
 ENV REDIS_USER=redis
